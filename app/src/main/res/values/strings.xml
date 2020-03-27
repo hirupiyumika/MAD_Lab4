@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Notification</string>
+    <string name="label">Name</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="mail">E-mail</string>
+    <string name="phone">Telephone</string>
+    <string name="pwd">Password</string>
+    <string name="re_pwd">Re-type Password</string>
+    <string name="reg">Register</string>
+    <string name="cancle">Cancle</string>
+    <string name="channel_name">Labsheet4</string>
+    <string name="channel_description">Channel for the notification</string>
+
 </resources>
